@@ -18,6 +18,7 @@ const Contact = () => {
           console.log(error.text);
       });
     e.target.reset();
+    alert("Successfully sent!")
   };
   return (
     <section id="contact">
