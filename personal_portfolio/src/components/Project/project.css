@@ -1,5 +1,5 @@
 #projects {
-  margin-top: 0;
+  height: 140vh;
 }
 .project__container {
   display: grid;
@@ -35,6 +35,9 @@
 }
 
 @media screen and (max-width: 1024px) {
+  #projects {
+    height: 60vh;
+  }
   .project__container {
     grid-template-columns: 1fr 1fr;
     gap: 1.3rem;
@@ -42,8 +45,11 @@
 }
 
 @media screen and (max-width: 600px) {
+  #projects {
+    padding-top: 9rem;
+  }
   .project__container {
     grid-template-columns: 1fr;
-    gap: 1rem;
+    gap: 2rem;
   }
 }
