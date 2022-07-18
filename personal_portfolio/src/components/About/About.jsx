@@ -10,7 +10,7 @@ const About = () => {
 
       <div className="container about__container">
         <p>
-          After an unsuccessful bout of landing a job after graduating, I figured that it was time for a career switch. That is when I stumbled upon an opportunity to learn about web development and coding at Lighthouse Labs.
+          After an unsuccessful bout of landing a job after graduating with a science degree, I figured that it was time for a career switch. That is when I stumbled upon an opportunity to learn about software development and coding at Lighthouse Labs.
         </p>
         <br/>
         <BsThreeDots />
@@ -19,7 +19,7 @@ const About = () => {
         <br />
         <BsThreeDots />
         <br />
-        <p> Outside of coding I enjoy cooking, watching anime, listening to music, going to the gym, and reading. Fun fact: I also make beats and instrumentals. If you have the time, just search "Mozeezy" on your streaming platform of choice and listen away! 
+        <p> Outside of coding I enjoy cooking, watching anime, listening to music, going to the gym, and reading. Some of my favorite animes are One Piece, Bleach, Fullmetal Alchemist, Slam Dunk, Food Wars, JoJo's Bizzare Adventures, and a lot more.
         </p>
         <br />
       </div>
