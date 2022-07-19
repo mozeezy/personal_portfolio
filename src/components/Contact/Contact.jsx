@@ -29,12 +29,12 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
-            <a href="mailto: justmoe23@gmail.com" target="_blank">Send an Email</a>
+            <a href="mailto: justmoe23@gmail.com" rel="noreferrer" target="_blank">Send an Email</a>
           </article>
           <article className="contact__option">
             <GrLinkedin className="contact__option-icon" />
             <h4>LinkedIn</h4>
-            <a href="https://www.linkedin.com/in/mohamed-mohamed96/" target="_blank">Connect on LinkedIn</a>
+            <a href="https://www.linkedin.com/in/mohamed-mohamed96/" rel="noreferrer" target="_blank">Connect on LinkedIn</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

@@ -18,7 +18,7 @@ const Project = () => {
             <br />
             <div className="project__item-cta">
 
-            <a href={project.githubURL} target="_blank">Repo Link</a>
+            <a href={project.githubURL} rel="noreferrer" target="_blank">Repo Link</a>
             </div>
           </article>
         ))}
