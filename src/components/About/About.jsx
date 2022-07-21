@@ -10,7 +10,7 @@ const About = () => {
 
       <div className="container about__container">
         <p>
-          After an unsuccessful bout of landing a job after graduating with a science degree, I figured that it was time for a career switch. That is when I stumbled upon an opportunity to learn about software development and coding at Lighthouse Labs.
+          Coming from a science background and after an unsuccessful bout of landing a job, I figured that it was time for a career switch. That is when I stumbled upon an opportunity to learn about software development and coding at Lighthouse Labs.
         </p>
         <br/>
         <BsThreeDots />
