@@ -19,7 +19,7 @@ const About = () => {
         <br />
         <BsThreeDots />
         <br />
-        <p> Outside of coding I enjoy cooking, watching anime, listening to music, going to the gym, and reading. Some of my favorite animes are One Piece, Bleach, Fullmetal Alchemist, Slam Dunk, Food Wars, JoJo's Bizzare Adventures, and a lot more.
+        <p> Outside of coding I enjoy cooking, watching anime, listening to music, going to the gym, and reading. Some of my favorite animes are One Piece, Bleach, Fullmetal Alchemist, Slam Dunk, Food Wars, JoJo's Bizzare Adventures, and a lot more!
         </p>
         <br />
       </div>
