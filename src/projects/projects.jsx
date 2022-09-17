@@ -3,7 +3,7 @@ const projects = [
     id: 1,
     title: "aria.io",
     description: "A voice assisstant app that allows users to navigate traffic in Toronto. Created at HackTO 2022 Hackathon (Incomplete).",
-    image: "/projectImages/aria.jpeg",
+    image: "/projectImages/aria.png",
     altText: "Aria",
     githubURL: "https://github.com/mozeezy/aria_frontend"
   },
