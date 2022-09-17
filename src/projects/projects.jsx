@@ -30,6 +30,14 @@ const projects = [
     image: "/projectImages/tweeter.png",
     altText: "Tweeter",
     githubURL: "https://github.com/mozeezy/tweeter"
+  },
+  {
+    id: 5,
+    title: "TinyApp",
+    description: "TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs.",
+    image: "/projectImages/tinyapp.png",
+    altText: "TinyApp",
+    githubURL: "https://github.com/mozeezy/tinyapp"
   }
 ]
 
