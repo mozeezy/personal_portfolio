@@ -19,6 +19,7 @@ const Project = () => {
             <div className="project__item-cta">
 
             <a href={project.githubURL} rel="noreferrer" target="_blank">Repo Link</a>
+            {project.liveURL ? (<a href={project.liveURL} rel="noreferrer" target="_blank">Live Link</a>) : null}
             </div>
           </article>
         ))}

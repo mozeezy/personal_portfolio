@@ -1,5 +1,14 @@
 const projects = [
   {
+    id: 0,
+    title: "Nipsey",
+    description: "A voice assisstant app that gives you an inspirational quote using your voice. Created using Alan AI API and ZenQuotes.io to fetch random quotes",
+    image: "/projectImages/nipsey.png",
+    altText: "Nipsey",
+    githubURL: "https://github.com/mozeezy/nipsey",
+    liveURL: "https://nipsey.netlify.app/"
+  },
+  {
     id: 1,
     title: "aria.io",
     description: "A voice assisstant app that allows users to navigate traffic in Toronto. Created at HackTO 2022 Hackathon (Incomplete).",
