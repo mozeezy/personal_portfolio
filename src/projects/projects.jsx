@@ -2,7 +2,7 @@ const projects = [
   {
     id: 0,
     title: "Portfolio.nes",
-    description: "A personal portfolio app reminiscant of NES-style graphics. Created using NES.css framework",
+    description: "A personal portfolio app reminiscant of Nintendo Entertainment System (NES). Created using NES.css framework",
     image: "/projectImages/retro_portfolio.png",
     altText: "Portfolio.nes",
     githubURL: "https://github.com/mozeezy/retro_portfolio",
