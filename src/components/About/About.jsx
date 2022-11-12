@@ -15,7 +15,8 @@ const About = () => {
         <br/>
         <BsThreeDots />
         <br />
-        <p>Through my journey at Lighthouse Labs, I have built applications using various languages, libraries and tools such as JavaScript, HTML, CSS,SQL, Node.js, Express, React.js, jQuery, AJAX, PostgreSQL, and I am continuing to learn more. I'm currently enrolled in the Harvard CS50 course where I will be expanding on my coding skills by learning more languages, libraries, and frameworks.</p>
+        <p>Through my journey at Lighthouse Labs, I have built applications using various languages, libraries and tools such as JavaScript, HTML, CSS,SQL, Node.js, Express, React.js, jQuery, AJAX, PostgreSQL, and I am continuing to learn more. At the moment, I'm currently learning Python by following the #100DaysOfCode challenge and I'm planning to learn Java and AWS next! Very exciting!
+        </p>
         <br />
         <BsThreeDots />
         <br />
