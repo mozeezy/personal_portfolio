@@ -10,7 +10,7 @@ const About = () => {
 
       <div className="container about__container">
         <p>
-          My name is Mohamed and I am a full-stack web developer. Coming from a science background, I found a deep interest in web development and software engineering and decided to pursue it as a career. That is when I stumbled upon an opportunity to learn about software development and coding at Lighthouse Labs.
+          My name is Mohamed and I am a full-stack web developer. Coming from a science background, I found a deep interest in web development and software engineering and took it upon myself to learn more about it. That is when I stumbled upon an opportunity to learn about software development and coding at Lighthouse Labs.
         </p>
         <br/>
         <BsThreeDots />
