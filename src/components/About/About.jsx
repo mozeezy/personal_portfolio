@@ -6,7 +6,7 @@ const About = () => {
   return (
     <section id="about">
       <h5> Get To Know More</h5>
-      <h2> About Me</h2>
+      <h2> My Story</h2>
 
       <div className="container about__container">
         <p>
@@ -20,9 +20,8 @@ const About = () => {
         <br />
         <BsThreeDots />
         <br />
-        <p> Outside of coding I enjoy cooking, watching anime, listening to music, going to the gym, and reading. Some of my favorite animes are One Piece, Bleach, Fullmetal Alchemist, Slam Dunk, Food Wars, JoJo's Bizzare Adventures, and a lot more! Some of my favorite books are "The Art of War" by Sun Tzu; "The Way of a Superior Man" by David Deida; "Decoded" by Shawn "Jay-Z" Carter, and more!
+        <p> One of the things I enjoy about coding is learning new solutions and new ways to approach different problems. I believe that is the essence of what a software engineer is. Being that coding is a technical skill which requires consistency, I saw the positive effect of that in different domains of my life and I couldn't be more
         </p>
-        <br />
       </div>
     </section>
   )
