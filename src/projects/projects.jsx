@@ -1,6 +1,14 @@
 const projects = [
   {
     id: 0,
+    title: "Kountit",
+    description: "A stock and inventory management app. Created using the MERN stack, in addition to Redux for state management. Currently writing automated tests. Live link will be up soon.",
+    image: "/projectImages/kountit.png",
+    altText: "Kountit",
+    githubURL: "https://github.com/mozeezy/kountit",
+  },
+  {
+    id: 1,
     title: "Portfolio.nes",
     description: "A personal portfolio app reminiscant of Nintendo Entertainment System (NES). Created using NES.css framework",
     image: "/projectImages/retro_portfolio.png",
@@ -9,7 +17,7 @@ const projects = [
     liveURL: "https://mozeezy.github.io/retro_portfolio/"
   },
   {
-    id: 1,
+    id: 2,
     title: "Nipsey",
     description: "A voice assisstant app that gives you an inspirational quote using your voice. Created using Alan AI API and ZenQuotes.io to fetch random quotes",
     image: "/projectImages/nipsey.png",
@@ -18,7 +26,7 @@ const projects = [
     liveURL: "https://nipsey.netlify.app/"
   },
   {
-    id: 2,
+    id: 3,
     title: "aria.io",
     description: "A voice assisstant app that allows users to navigate traffic in Toronto. Created at HackTO 2022 Hackathon (Incomplete).",
     image: "/projectImages/aria.png",
@@ -26,7 +34,7 @@ const projects = [
     githubURL: "https://github.com/mozeezy/aria_frontend"
   },
   {
-    id: 3,
+    id: 4,
     title: "CryptoNite",
     description: "A mock cryptocurrency app that allows you to trade different cryptocurrencies and access news related to crypto.",
     image: "/projectImages/cryptonite.png",
@@ -34,7 +42,7 @@ const projects = [
     githubURL: "https://github.com/mozeezy/cryptonite"
   },
   {
-    id: 4, 
+    id: 5, 
     title: "FoodSkip",
     description: "A food pickup app that allows user to place orders for pickup. Similar to SkipTheDishes.",
     image: "/projectImages/foodskip.png",
@@ -42,7 +50,7 @@ const projects = [
     githubURL: "https://github.com/RReiso/foodskip"
   },
   {
-    id: 5,
+    id: 6,
     title: "Interview Scheduler",
     description: "An app that allows you to set appointments with various interviewers.",
     image: "/projectImages/interview-scheduler.png",
@@ -50,7 +58,7 @@ const projects = [
     githubURL: "https://github.com/mozeezy/scheduler"
   },
   {
-    id: 6,
+    id: 7,
     title: "Tweeter",
     description: "A mock version of Twitter that allows you to tweet within 140 characters.",
     image: "/projectImages/tweeter.png",
@@ -58,7 +66,7 @@ const projects = [
     githubURL: "https://github.com/mozeezy/tweeter"
   },
   {
-    id: 7,
+    id: 8,
     title: "TinyApp",
     description: "TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs.",
     image: "/projectImages/tinyapp.png",
