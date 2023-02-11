@@ -6,6 +6,7 @@ const projects = [
     image: "/projectImages/kountit.png",
     altText: "Kountit",
     githubURL: "https://github.com/mozeezy/kountit",
+    liveURL: "https://kountit.vercel.app/"
   },
   {
     id: 1,
