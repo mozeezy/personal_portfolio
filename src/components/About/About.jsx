@@ -19,9 +19,6 @@ const About = () => {
         </p>
         <br />
         <BsThreeDots />
-        <br />
-        <p> One of the things I enjoy about coding is learning new solutions and new ways to approach different problems. I believe that is the essence of what a software engineer is. Being that coding is a technical skill which requires consistency, I saw the positive effect of that in different domains of my life and I couldn't be more
-        </p>
       </div>
     </section>
   )
