@@ -2,7 +2,7 @@ const projects = [
   {
     id: 0,
     title: "Kountit",
-    description: "A stock and inventory management app. Created using the MERN stack, in addition to Redux for state management. Currently writing automated tests.",
+    description: "A stock and inventory management app. Created using the MERN stack, in addition to Redux for state management.",
     image: "/projectImages/kountit.png",
     altText: "Kountit",
     githubURL: "https://github.com/mozeezy/kountit",
